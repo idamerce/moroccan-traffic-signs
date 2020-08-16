@@ -6,5 +6,7 @@ I used Google text to speech (gtts) to make classification outputs in two ways s
 
 her you can finde the training dataset :https://drive.google.com/drive/folders/1REybaQ5knUtuYX_8_qbNytySYyrXhm-b?usp=sharing
 
+This model has loss: val_loss: 0.0576 - val_accuracy: 0.9871 - 0.2147 - accuracy: 0.9590 
+
 
  
