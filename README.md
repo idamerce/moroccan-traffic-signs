@@ -1,4 +1,4 @@
-# moroccan-traffic-signs-detectior
+# moroccan-traffic-signs-detector
 
 this is a detection moroccan traffic road signs project itis composed of two small project 
 first one is a classification project of moroccan traffic signs, it contains 46 class of signs and more then 37850 image  
